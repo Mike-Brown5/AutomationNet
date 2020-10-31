@@ -1,0 +1,6 @@
+enable
+conf t
+ntp server 192.168.1.66
+vlan 22
+vlan 33
+vlan 50
