@@ -1,4 +1,4 @@
-An Automation Python Script that let configure multiple CISCO devices simultaneously by doing the following:
+An Automation Python Script that let configure multiple devices simultaneously by doing the following:
 
 1-Validate the IP file: It takes the path to a file containing a list of IP addresses as input and verifies if the file exists and then It checks if the IP addresses in the file are valid .
 
